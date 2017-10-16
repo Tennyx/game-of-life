@@ -7,7 +7,7 @@ Get notified via text when a seat opens up on the bus to [Lake O'Hara, BC](https
 ### What You Need
 
 * Some sort of javascript pre-processor. I used Babel for this, created on codepen.
-* A link to one line of HTML: <div id='app'></div>
+* A link to one line of HTML: `<div id='app'></div>`
 
 [![Screenshot](https://i.imgur.com/25iaK8U.png)](http://www.caleswitzer.com/projects/game-of-life)
 
