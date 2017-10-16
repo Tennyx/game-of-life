@@ -1,0 +1,43 @@
+body {
+  background: #a285b2;
+  color: white;
+}
+
+h3 {
+ margin:30px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  background: white;
+  height: 15px;
+  width: 15px;
+  border: solid 1px;  
+  font-size: 10px;
+}
+
+.alive {
+  background: #a285b2;
+}
+
+#btndiv {
+  margin-top: 10px;
+}
+
+.btn-primary {
+  background: #a285b2;
+  border: #a285b2;
+  color: white;
+  border-radius: 0;
+  margin: 5px;
+}
+
+.btn-primary:hover {
+  background: white;
+  border: white;
+  color: #a285b2;
+}
